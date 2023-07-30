@@ -6,5 +6,4 @@
 - Computer Graphics
 - Machine Learning
 - Computer Vision
-- Multi-modal
-- Cross-modal
+- Procedural
