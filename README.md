@@ -4,6 +4,8 @@
 
 ## 興味のある領域
 - Computer Graphics
-- Machine Learning
 - Computer Vision
+- Machine Learning
 - Procedural
+- Geospatial Information
+- GIS
